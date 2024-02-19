@@ -1,2 +1,2 @@
 # MSL-Bonnet-Inspection
-Detecing the Black and Mosaic sealent on Bonnet
+Detecing the Black and Mastic sealent on Bonnet
